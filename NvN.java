@@ -1,5 +1,4 @@
-
-package nvn;
+package BT;
 
 import java.util.Scanner;
 
