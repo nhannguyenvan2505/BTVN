@@ -3,7 +3,7 @@ package BT;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class BTArrayList {
+public class ArrayListBT {
 
     public static ArrayList<Integer> inputArrayList() {
         Scanner scanner = new Scanner(System.in);
